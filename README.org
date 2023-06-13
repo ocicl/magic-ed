@@ -1,0 +1,10 @@
+* magic-ed
+
+Editing facility for Common Lisp REPL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sanel/magic-ed.git   |
+| commit  | 30bb278  |
+| systems | magic-ed |
+|---------+-------------------------------------------|
+
